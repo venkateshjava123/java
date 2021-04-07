@@ -6,13 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body> 
-<form method="get" action="details">
-  Enter name: <input type="text" name = "name">
-   <input type="submit">
-    </form>
+<body>
+ welcome ${name}
 </body>
 </html>
-
-
-
